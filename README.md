@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/48796920/229823587-a83a7aa4-34e8-4ff0-874b-7b3045c737ce.png)
 
-# noname1
+# Todo App
 
 ## Project setup
 ```
